@@ -1,0 +1,9 @@
+/* stlyling for the form */
+
+body {
+    display: flex;
+}
+
+#fancy {
+    background-image: 'halie-west-25xggax4bSA-unsplash.jpg';
+}
